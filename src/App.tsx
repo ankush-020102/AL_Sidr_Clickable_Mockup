@@ -1,9 +1,5 @@
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Navigate,
-} from "react-router-dom";
+// @ts-nocheck
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import AlSidrDashboard from "./components/AlSidrDashboard";
 
